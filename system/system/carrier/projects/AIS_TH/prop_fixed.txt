@@ -1,0 +1,5 @@
+persist.vendor.custom.variant.id=AIS_TH 
+ro.oem.key1=AIS_TH 
+ro.vendor.feature.zte_feature_fota_server=https://dms.ztems.com/zxmdmp/dm 
+ro.vendor.feature.zte_feature_launcher_resource=gen_redmagic_ais_th_zte_nx769j
+

@@ -1,0 +1,5 @@
+persist.vendor.custom.variant.id=GEN_JP 
+ro.oem.key1=GEN_JP 
+ro.vendor.feature.zte_feature_fota_server=https://dmin.ztems.com/zxmdmp/dm 
+ro.vendor.feature.zte_feature_launcher_resource=gen_redmagic_jp_zte_nx769j
+

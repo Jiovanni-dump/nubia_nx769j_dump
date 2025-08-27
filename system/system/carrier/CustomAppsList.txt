@@ -1,0 +1,14 @@
+framework-res_common_rro_gen_us
+GoogleDialer
+zte_gms_default_dialer_rro
+
+GoogleDialer
+zte_gms_default_dialer_rro
+
+Dialer_TH
+zte_ais_default_dialer_rro
+
+framework-res_common_rro_gen_jp
+GoogleDialer
+zte_gms_default_dialer_rro
+

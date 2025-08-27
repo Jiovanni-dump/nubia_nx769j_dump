@@ -1,0 +1,2 @@
+Dialer_TH
+zte_ais_default_dialer_rro

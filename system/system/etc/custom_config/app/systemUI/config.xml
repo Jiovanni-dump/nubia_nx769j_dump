@@ -1,0 +1,5 @@
+<resources>
+    <boolean name="NUBIA_RQ">true</boolean>
+    <boolean name="NUBIA_MAGIC_CUSTOM">true</boolean>
+    <boolean name="OLD_NUBIA_MAGIC_CHARGING_VIEW">true</boolean>
+</resources>

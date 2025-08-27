@@ -1,0 +1,4 @@
+persist.vendor.custom.variant.id=GEN_US 
+ro.oem.key1=GEN_US 
+ro.vendor.feature.zte_feature_launcher_resource=gen_redmagic_us_zte_nx769j
+

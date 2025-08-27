@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<groupconfig>
+    <variantgroupconfig name="FIXED" type="FIXED">
+        <variant id="GEN_US"/>
+        <variant id="GEN_NON_EEA"/>
+        <variant id="AIS_TH"/>
+        <variant id="GEN_JP"/>
+    </variantgroupconfig>
+</groupconfig>
