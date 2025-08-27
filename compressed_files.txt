@@ -1,0 +1,13 @@
+product/priv-app/GmsCore/GmsCore.apk.xz
+product/priv-app/Velvet/Velvet.apk.xz
+product/priv-app/Messages/Messages.apk.xz
+product/app/Photos/Photos.apk.xz
+product/app/Maps/Maps.apk.xz
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk.xz
+product/app/YouTube/YouTube.apk.xz
+product/app/Gmail2/Gmail2.apk.xz
+vendor/etc/camera/udc_512_512_12Binary.bin.xz
+vendor/etc/dts/dts-eagle.lic.xz
+system_ext/priv-app/Settings_MFV_abroad/Settings_MFV_abroad.apk.xz
+boot/boot.img-elf.xz
+recovery.img.xz
