@@ -1,0 +1,4 @@
+persist.vendor.custom.variant.id=GEN_EU 
+ro.oem.key1=GEN_EU 
+ro.vendor.feature.zte_feature_fota_server=https://dmeu.ztems.com/zxmdmp/dm
+

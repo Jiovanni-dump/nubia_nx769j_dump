@@ -1,0 +1,2 @@
+com.zte.weather
+com.zte.storagecleanup
