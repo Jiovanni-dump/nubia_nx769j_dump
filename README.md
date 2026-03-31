@@ -1,0 +1,14 @@
+# qssi_64-user 15 AQ3A.240812.002 20251224.151423 release-keys
+- manufacturer: nubia
+- platform: pineapple
+- codename: NX769J
+- flavor: qssi_64-user
+- release: 15
+- id: AQ3A.240812.002
+- incremental: 20251224.151423
+- tags: release-keys
+- fingerprint: nubia/NX769J-EEA/NX769J:14/UKQ1.230917.001/20251224.152921:user/release-keys
+- is_ab: true
+- brand: nubia
+- branch: qssi_64-user-15-AQ3A.240812.002-20251224.151423-release-keys
+- repo: nubia_nx769j_dump
