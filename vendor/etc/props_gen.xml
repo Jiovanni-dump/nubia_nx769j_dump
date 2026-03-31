@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<props_gen id_src="zte_variantflag" id_src_type="v" default="GEN_EU">
+    <gn id="GEN_EU">
+        <prop name="ro.vendor.product.ztename" default="REDMAGIC 9 Pro" override="true">
+            <patterns>
+                <pattern>
+                    <subpattern type="f" src="/sys/nubia_hw_version/pcb_version" default="0">
+                        <item from="0" to="REDMAGIC 9 Pro"/>
+                        <item from="MB_B2" to="REDMAGIC 9S Pro"/>
+                    </subpattern>
+                </pattern>
+            </patterns>
+        </prop>
+        <prop name="ro.vendor.product.zte_pcb" default="0" override="true">
+            <patterns>
+                <pattern>
+                    <subpattern type="f" src="/sys/nubia_hw_version/pcb_version" default="0"/>
+                </pattern>
+            </patterns>
+        </prop>
+    </gn>
+</props_gen>
